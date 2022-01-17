@@ -1,2 +1,2 @@
 # Data-Analytics-Projects
-My All Data Science Projects
+Netflix EDA Analysis 
